@@ -1,9 +1,3 @@
-/* 
- * CSC 225 - Assignment 3
- * Name: 
- * Student number:
- */
- 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
